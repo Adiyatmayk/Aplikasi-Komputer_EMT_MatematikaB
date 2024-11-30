@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="893" height="510">
+<clipPath id="clip2"><rect x="0.00" y="0.00" width="893.00" height="510.00" /></clipPath>
+<rect x="0.00" y="0.00" width="1024.00" height="1024.00" style="fill:rgb(255,255,255)"/>
+<line x1="122.96" y1="32.87" x2="122.96" y2="443.76" style="fill:none;stroke:rgb(26,26,26);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip2)"/>
+<line x1="122.96" y1="443.76" x2="842.42" y2="443.76" style="fill:none;stroke:rgb(26,26,26);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip2)"/>
+<line x1="842.42" y1="443.76" x2="842.42" y2="32.87" style="fill:none;stroke:rgb(26,26,26);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip2)"/>
+<line x1="842.42" y1="32.87" x2="122.96" y2="32.87" style="fill:none;stroke:rgb(26,26,26);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip2)"/>
+<text x="482.25" y="463.23" text-anchor="middle" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1</text>
+<polyline points="155.66,416.19 809.72,416.19" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="415.91" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">997</text>
+<polyline points="155.66,365.37 809.72,365.37" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="365.11" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">998</text>
+<polyline points="155.66,314.55 809.72,314.55" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="314.31" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">999</text>
+<polyline points="155.66,263.73 809.72,263.73" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="263.51" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1000</text>
+<polyline points="155.66,212.90 809.72,212.90" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="212.71" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1001</text>
+<polyline points="155.66,162.08 809.72,162.08" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="161.91" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1002</text>
+<polyline points="155.66,111.26 809.72,111.26" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="111.11" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1003</text>
+<polyline points="155.66,60.44 809.72,60.44" style="fill:none;stroke:rgb(128,128,128);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:1,10" clip-path="url(#clip2)" />
+<text x="115.11" y="60.31" text-anchor="end" font-family="Arial" font-size="11" fill="rgb(26,26,26)">1004</text>
+<clipPath id="clip3"><rect x="122.96" y="32.87" width="719.46" height="410.89" /></clipPath>
+<polyline points="482.69,416.19 482.69,60.44" style="fill:none;stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:1.00;stroke-dasharray:6,10" clip-path="url(#clip3)" />
+<clipPath id="clip4"><rect x="0.00" y="0.00" width="892.13" height="509.50" /></clipPath>
+<clipPath id="clip5"><rect x="122.96" y="32.87" width="719.46" height="410.89" /></clipPath>
+<polyline points="351.88,416.19 613.50,416.19" style="fill:none;stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip5)" />
+<clipPath id="clip6"><rect x="0.00" y="0.00" width="892.13" height="509.50" /></clipPath>
+<clipPath id="clip7"><rect x="122.96" y="32.87" width="719.46" height="410.89" /></clipPath>
+<polyline points="351.88,60.44 613.50,60.44" style="fill:none;stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip7)" />
+<clipPath id="clip8"><rect x="0.00" y="0.00" width="892.13" height="509.50" /></clipPath>
+<clipPath id="clip9"><rect x="122.96" y="32.87" width="719.46" height="410.89" /></clipPath>
+<rect x="221.07" y="162.08" width="523.24" height="203.28" style="fill:rgb(255,255,255);stroke:none" clip-path="url(#clip9)"/>
+<pattern id="hatch00" patternUnits="userSpaceOnUse" x="0" y="0" width="14" height="14">
+ <g style="fill:none; stroke:rgb(16,144,16); stroke-width:2">
+ </g>
+</pattern>
+<rect x="221.07" y="162.08" width="523.24" height="203.28" style="fill:rgb(16,144,16);stroke:rgb(0,0,0);stroke-width:1.00" clip-path="url(#clip9)"/>
+<clipPath id="clip10"><rect x="0.00" y="0.00" width="892.13" height="509.50" /></clipPath>
+<clipPath id="clip11"><rect x="122.96" y="32.87" width="719.46" height="410.89" /></clipPath>
+<polyline points="221.07,314.55 744.31,314.55" style="fill:none;stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:1.00" clip-path="url(#clip11)" />
+<clipPath id="clip12"><rect x="0.00" y="0.00" width="892.13" height="509.50" /></clipPath>
+</svg>
